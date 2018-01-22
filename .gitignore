@@ -24,3 +24,5 @@
 
 db/schema.rb
 Gemfile.lock
+
+config/secrets.yml
